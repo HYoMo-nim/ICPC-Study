@@ -1,0 +1,7 @@
+package keh0915;
+
+public class Q1_01 {
+	public static void main(String[] args) {
+		System.out.print("Hello World!");
+	}
+}
