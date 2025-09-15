@@ -1,0 +1,16 @@
+package keh0915;
+import java.util.Scanner;
+
+public class Q3_11 {
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		
+		while(true) {
+			int a=sc.nextInt();
+			int b=sc.nextInt();
+			if(a+b==0) break; 
+			else System.out.println(a+b);
+			}
+		sc.close();
+	}
+}
